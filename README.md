@@ -1,5 +1,5 @@
 # What is this repository about
-Welcome to my portfolio repository, which contains all of my share worthy projects that I have worked on and am currently working on!
+Welcome to my portfolio repository, which contains all of my share worthy projects that I have worked on and am working on!
 
 Currently, the selection of projects is quite limited, but will be steadily growing.  
 
